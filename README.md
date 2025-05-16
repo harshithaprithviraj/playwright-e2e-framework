@@ -13,8 +13,8 @@ This repository contains a robust End-to-End (E2E) testing framework built using
 
 ## 🚀 Getting Started
 
+
 1.Install dependencies:
-   ```bash
    npm install
 
 2.Run tests:
